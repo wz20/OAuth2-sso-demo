@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OAuth2-sso-demo.iml" filepath="$PROJECT_DIR$/.idea/OAuth2-sso-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-sso-demo/auth-res-server/auth-res-server.iml" filepath="$PROJECT_DIR$/oauth2-sso-demo/auth-res-server/auth-res-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-sso-demo/auth-server/auth-server.iml" filepath="$PROJECT_DIR$/oauth2-sso-demo/auth-server/auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-sso-demo/client1/client1.iml" filepath="$PROJECT_DIR$/oauth2-sso-demo/client1/client1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-sso-demo/client2/client2.iml" filepath="$PROJECT_DIR$/oauth2-sso-demo/client2/client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-sso-demo/oauth2-github-demo/oauth2-github-demo.iml" filepath="$PROJECT_DIR$/oauth2-sso-demo/oauth2-github-demo/oauth2-github-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-sso-demo/oauth2-sso-demo.iml" filepath="$PROJECT_DIR$/oauth2-sso-demo/oauth2-sso-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-sso-demo/user-server/user-server.iml" filepath="$PROJECT_DIR$/oauth2-sso-demo/user-server/user-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-sso-demo/wz-app-demo/wz-app-demo.iml" filepath="$PROJECT_DIR$/oauth2-sso-demo/wz-app-demo/wz-app-demo.iml" />
+    </modules>
+  </component>
+</project>

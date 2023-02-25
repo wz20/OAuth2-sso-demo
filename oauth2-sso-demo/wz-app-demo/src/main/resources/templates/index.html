@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>wz-app</title>
+</head>
+<body>
+<h1>Hello!  WZ-APP</h1>
+
+<hr>
+登录：
+<a href="http://localhost:8081/oauth/authorize?client_id=wz-app&response_type=code&scope=all&redirect_uri=http://localhost:8083/index.html">第三方登录</a>
+<br>
+<h3 th:text="${token}"></h3>
+<h1 th:text="${res}"></h1>
+
+
+</body>
+</html>
