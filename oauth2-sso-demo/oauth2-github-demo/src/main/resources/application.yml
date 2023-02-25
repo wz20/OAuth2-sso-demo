@@ -6,6 +6,6 @@ spring:
       client:
         registration:
           github:
-            client-id: 91cfe12f58e3a27f6fd3
-            client-secret: 6abcaffa431a2e573e0fbe0cb3b49cc6473aa9f0
+            client-id: ********
+            client-secret: ***********
 
